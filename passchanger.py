@@ -15,7 +15,7 @@ user_name = 'INSERT_USERNAME'
 
 def make_password(length):
     password = ''
-    half = round(length / 2)
+    half = int(round(length / 2))
     for i in range(1, half):
         password += chars[random.randint(0, len(chars) - 1)]
 

@@ -7,10 +7,11 @@ Welcome to my first git program!
 Inspired by Atomic Habits by James Clear I made this program that
 changes your Instagram password weekly to hopefully boost your productivity during the week!
 
-I made this to schedule on a Raspberry Pi and plan to make another program
-that will email me that new password on Friday afternoon for weekend use!
+I made this to schedule on a Raspberry Pi, so please excuses the long sleeps.
 
-If you want to use this make sure you do 2 things.
+I do plan to make another program that will email me that new password on Friday afternoon for weekend usage.
+
+*If you want to use this make sure you do 2 things.*
 
 1. replace the username variable with your Instagram username.
 

@@ -10,6 +10,8 @@ changes your Instagram password weekly to boost your productivity!
 I made this to run on a Raspberry Pi locally and plan to make another program
 that will send me that new password on Friday afternoon for weekend use!
 
+I intent to schedule this .py file to run Monday mornings to start my week.
+
 If you want to use this make sure you do 2 things.
 
 1. replace the username variable with your Instagram username.
